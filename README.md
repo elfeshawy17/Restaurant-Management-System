@@ -4,9 +4,6 @@ A Java-based Restaurant Management System that helps manage employees and the re
 
 
 📂 Project Structure
-graphql
-Copy
-Edit
 src/
 │── employees/
 │   │── Chef.java          # Class for chefs
@@ -18,25 +15,16 @@ Restaurant Management System.iml  # IntelliJ IDEA configuration file
 
 
 🚀 How to Run
-Ensure Java JDK 17+ is installed on your system.
-
-
-Clone the repository:
-
-
-sh
-Copy
-Edit
+1. Ensure Java JDK 17+ is installed on your system.
+2. Clone the repository:
 git clone https://github.com/elfeshawy17/Restaurant-Management-System.git
 cd Restaurant-Management-System/src
-Run Main.java in your preferred Java IDE or via the terminal.
+3. Run Main.java in your preferred Java IDE or via the terminal.
 
 
 🛠️ Technologies Used
-Java
-
-
-Object-Oriented Programming (OOP)
+. Java
+. Object-Oriented Programming (OOP)
 
 
 📌 Features
